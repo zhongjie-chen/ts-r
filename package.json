@@ -1,0 +1,33 @@
+{
+  "name": "ts-r",
+  "version": "1.0.0",
+  "description": "ts-r",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongjie-chen/ts-r.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "czj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongjie-chen/ts-r/issues"
+  },
+  "homepage": "https://github.com/zhongjie-chen/ts-r#readme",
+  "dependencies": {
+    "@types/react": "^0.14.55",
+    "@types/react-dom": "^0.14.19",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.0.0-beta.17",
+    "source-map-loader": "^0.1.5",
+    "typescript": "^2.1.4"
+  }
+}
